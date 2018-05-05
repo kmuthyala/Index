@@ -1,0 +1,6 @@
+c:\users\k25120\documents\visual studio 2013\Projects\Index\Index\bin\Debug\Index.exe.config
+c:\users\k25120\documents\visual studio 2013\Projects\Index\Index\bin\Debug\Index.exe
+c:\users\k25120\documents\visual studio 2013\Projects\Index\Index\bin\Debug\Index.pdb
+c:\users\k25120\documents\visual studio 2013\Projects\Index\Index\obj\Debug\Index.exe
+c:\users\k25120\documents\visual studio 2013\Projects\Index\Index\obj\Debug\Index.pdb
+C:\Users\K25120\Documents\Visual Studio 2013\Projects\Index\Index\obj\Debug\Index.csprojResolveAssemblyReference.cache
